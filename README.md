@@ -4,7 +4,7 @@ I am a Computer Science and Engineering student skilled in html, CSS, JavaScript
 databases. Strong problem-solving abilities, effective team player, and eager to learn new technologies. Seeking to apply my
 knowledge in a dynamic environment.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Node JS / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning Data Science 
 - 💬 Ask me about Web developer 
