@@ -1,16 +1,64 @@
-### Hi there 👋, My name is Md Souad Al Kabir
-#### I am a CS graduated working as a web developer.
-I am a Computer Science and Engineering student skilled in html, CSS, JavaScript, Python, Java, and C++ with experience in web development and
-databases. Strong problem-solving abilities, effective team player, and eager to learn new technologies. Seeking to apply my
-knowledge in a dynamic environment.
+## 👋 Hi there, I'm Md Souad Al Kabir
 
-Skills: Node JS / REACT / JS / HTML / CSS
+I'm a **Computer Science graduate** and a passionate **Web Developer** with a strong foundation in software development, algorithms, and modern web technologies. With hands-on experience in both frontend and backend development, I love building responsive, efficient, and user-friendly web applications that solve real-world problems.
 
-- 🌱 I’m currently learning Data Science 
-- 💬 Ask me about Web developer 
+---
 
+### 👨‍💻 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Souad5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-souad-al-kabir-489183223//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/souadalkabirmaruf/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/souadalkabir//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/KabirSouad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@souadalkabir)  
+- 🎓 Graduated in Computer Science and Engineering
+- 💼 Currently working as a Web Developer
+- 🧠 Strong problem-solving skills and a collaborative team player
+- 🌐 Interested in full-stack development, AI, and data-driven applications
+- ⚡ Eager to learn and adapt to new technologies and frameworks
+- 🔍 Actively exploring advanced topics in **Data Science** and **Machine Learning**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+---
 
+### 🛠️ My Technical Skills
+
+#### 💻 Programming Languages:
+- JavaScript, Python, Java, C++, HTML5, CSS3
+
+#### ⚙️ Frameworks & Libraries:
+- React, Node.js, Express.js, Tailwind CSS
+
+#### 🗄️ Databases & Tools:
+- MongoDB, Firebase, MySQL, Git, GitHub, Postman
+
+---
+
+### 🚀 Current Focus
+
+- 🌱 Learning and practicing **Data Science** (NumPy, Pandas, Matplotlib, Scikit-learn)
+- 🔨 Improving backend skills with Node.js and MongoDB
+- 💡 Working on a **Knowledge Sharing Platform** using the MERN stack
+- 📚 Preparing for industry-level developer roles through real-world projects
+
+---
+
+### 💬 Ask Me About
+
+- How to get started with Web Development  
+- Frontend or backend project structure  
+- Learning paths for beginners in programming or full-stack development  
+- Git and version control tips  
+
+---
+
+### 📈 GitHub Stats
+
+![Souad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=souad5&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souad5&layout=compact)
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/md-souad-al-kabir/)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:souadalkabir@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/souad5)
+
+---
+
+Thanks for visiting my profile! 😊
