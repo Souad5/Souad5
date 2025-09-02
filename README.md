@@ -57,12 +57,12 @@
 
 ## 📈 GitHub Analytics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=souad5&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souad5&layout=compact&theme=tokyonight" alt="top langs" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=souad5&show_icons=true&theme=default" alt="stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souad5&layout=compact&theme=default" alt="top langs" height="160"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=souad5&theme=tokyonight" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=souad5&theme=default" alt="streak"/>
 </p>
 
 <p align="center">
