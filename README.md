@@ -18,6 +18,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Souad5)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souadalkabir@gmail.com)
 
+<img src="https://komarev.com/ghpvc/?username=Souad5&label=Profile%20Views&color=00c9ff&style=for-the-badge" alt="profile views" />
+
 </div>
 
 ---
@@ -27,10 +29,11 @@
 Full-stack web engineer with professional experience building scalable web apps using **React**, **TypeScript**, **Node.js**, and **MongoDB**. Strong in API integration, authentication, and state management. Currently deepening computer-science fundamentals — practicing DSA and OOP daily, and starting to learn System Design — to grow into a stronger backend/full-stack engineer.
 
 ### 🌱 Currently
-- Practicing **Data Structures & Algorithms** daily
-- Strengthening **Object-Oriented Programming** fundamentals
-- Just started learning **System Design**
-- Working as a Junior Software Engineer at **Kirrhosoft**
+- 💼 Working as a **Junior Software Engineer** at **Kirrhosoft**
+- 🧠 Practicing **Data Structures & Algorithms** daily
+- 🏗️ Strengthening **Object-Oriented Programming** fundamentals
+- 📐 Just started learning **System Design**
+- 🌍 Based in Dhaka, Bangladesh
 
 ---
 
@@ -64,38 +67,54 @@ Full-stack web engineer with professional experience building scalable web apps 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=souad5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=souad5&layout=compact&theme=tokyonight&hide_border=true"/>
+### 📊 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Souad5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souad5&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=souad5&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Souad5&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Souad5&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
----
-
-![snake gif](https://raw.githubusercontent.com/souad5/souad5/output/github-contribution-grid-snake.svg)
 
 ---
 
 <div align="center">
 
-## Featured Projects
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Souad5&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8"/>
+
+</div>
+
+---
+
+![snake gif](https://raw.githubusercontent.com/Souad5/Souad5/output/github-contribution-grid-snake.svg)
+
+---
+
+<div align="center">
+
+## 🚀 Featured Projects
 
 </div>
 
 | | |
 |:---:|:---|
-| **Local Food Waste Management** | [![Live](https://img.shields.io/badge/🔗_Live-00C9FF?style=for-the-badge)](https://souadalkabir.netlify.app/) [![GitHub](https://img.shields.io/badge/📦_Code-181717?style=for-the-badge&logo=github)](https://github.com/Souad5/Local-food-management) |
+| **Local Food Waste Management** | [![Live](https://img.shields.io/badge/🔗_Live-00C9FF?style=for-the-badge)](<!-- TODO: add the live URL for this project, it currently points nowhere --> ) [![GitHub](https://img.shields.io/badge/📦_Code-181717?style=for-the-badge&logo=github)](https://github.com/Souad5/Local-food-management) |
 | Full-stack platform for food distribution and management. | |
 | • Firebase Auth with protected routes and role-based access | |
 | • Full CRUD for food donations/distributions | |
 | • MongoDB-backed users, listings, favorites; dark/light mode toggle | |
 | <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,firebase,tailwind,stripe" /> | |
 | | |
-| **ShelfShare — Book Trading Club** | [![Live](https://img.shields.io/badge/🔗_Live-00C9FF?style=for-the-badge)](<!-- TODO: add ShelfShare live URL -->) [![Client](https://img.shields.io/badge/📦_Client-181717?style=for-the-badge&logo=github)](https://github.com/Souad5/Book-Trading-Club) [![Server](https://img.shields.io/badge/📦_Server-181717?style=for-the-badge&logo=github)](<!-- TODO: add ShelfShare server repo URL -->) |
-| Sustainability-driven platform for trading books within a community. *(Team project)* | |
+| **ShelfShare — Book Trading Club** *(Team project)* | [![Live](https://img.shields.io/badge/🔗_Live-00C9FF?style=for-the-badge)](<!-- TODO: add ShelfShare live URL -->) [![Client](https://img.shields.io/badge/📦_Client-181717?style=for-the-badge&logo=github)](https://github.com/Souad5/Book-Trading-Club) [![Server](https://img.shields.io/badge/📦_Server-181717?style=for-the-badge&logo=github)](<!-- TODO: add ShelfShare server repo URL -->) |
+| Sustainability-driven platform for trading books within a community. | |
 | • Real-time geolocation to find nearby books | |
 | • User dashboard for listings, trades, credits, history | |
 | • Wishlist matching with instant alerts; JWT + Firebase for secure exchanges | |
@@ -130,5 +149,17 @@ Full-stack web engineer with professional experience building scalable web apps 
 - Short Course on Data Science — Dr. Jennifer Widom
 
 ---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+I'm open to Software Engineer roles and always happy to talk about React, system design, or DSA problems. Reach out — I usually reply fast.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://souadalkabir.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souadalkabir/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souadalkabir@gmail.com)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9ff,50:2c5364,100:0f2027&height=100&section=footer"/>
