@@ -51,43 +51,14 @@ I build full-stack web products end to end, from typed React interfaces to Node/
 - Built validation-heavy forms with React Hook Form, shadcn/ui, and Radix UI.
 - Managed server state in responsive React/TypeScript apps with Axios and React Query.
 
-## Featured Projects
-
-### Local Food Waste Management
-
-<!-- TODO: add live URL, then uncomment: [![Live ↗](https://img.shields.io/badge/Live%20%E2%86%97-0E7490?style=flat-square)](https://YOUR-LIVE-URL) -->
-[![Code](https://img.shields.io/badge/Code-30363D?style=flat-square)](https://github.com/Souad5/Local-food-management)
-
-A full-stack platform that helps surplus food get donated and distributed instead of thrown away.
-
-- Built role-based access with Firebase Auth and protected routes.
-- Implemented full CRUD for food donations and distributions on a MongoDB data model covering users, listings, and favorites.
-<!-- TODO (optional): add one outcome line if you have numbers, e.g. users, listings, or donations handled. -->
-
-<sub>React · Node.js · MongoDB · Firebase · Tailwind CSS · Stripe</sub>
-
-### ShelfShare: Book Trading Club *(team project)*
-
-<!-- TODO: add live URL, then uncomment: [![Live ↗](https://img.shields.io/badge/Live%20%E2%86%97-0E7490?style=flat-square)](https://YOUR-LIVE-URL) -->
-[![Client](https://img.shields.io/badge/Client-30363D?style=flat-square)](https://github.com/Souad5/Book-Trading-Club)
-<!-- TODO: add server repo URL, then uncomment: [![Server](https://img.shields.io/badge/Server-30363D?style=flat-square)](https://github.com/Souad5/YOUR-SERVER-REPO) -->
-
-A community platform for trading books locally instead of buying new.
-
-- Built real-time geolocation search with Leaflet to surface nearby books.
-- Built wishlist matching that alerts users as soon as a wanted book is listed.
-- Built a user dashboard for listings, trades, credits, and history, with exchanges secured by JWT and Firebase Auth.
-<!-- TODO: it's a team project, so say which parts you owned (e.g. "I built the geolocation search and the Express API"). Reviewers will ask. -->
-
-<sub>TypeScript · React · Express · MongoDB · Firebase · Leaflet</sub>
-
 ## Tech Stack
 
-- **Languages:** TypeScript, JavaScript
-- **Frontend:** React, Next.js, Tailwind CSS, React Query, TanStack Table, React Hook Form, shadcn/ui, Radix UI, Framer Motion
-- **Backend:** Node.js, Express, REST APIs, JWT
-- **Data:** MongoDB, PostgreSQL, MySQL, Firebase
-- **Tooling:** Git, GitHub, Postman, Vercel, Netlify
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
+  <img src="assets/stack-light.svg" width="640" alt="Tech stack. Languages: TypeScript, JavaScript. Frontend: React, Next.js, HTML, CSS, Tailwind CSS. Backend: Node.js, Express. Database: MongoDB, PostgreSQL, MySQL, Firebase. Tools: Git, GitHub, VS Code, Postman, Vercel, Netlify." />
+</picture>
+
+<sub>Also: React Query · TanStack Table · React Hook Form · shadcn/ui · Radix UI · Framer Motion · REST APIs · JWT</sub>
 
 ## Education & Certifications
 
