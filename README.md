@@ -9,11 +9,12 @@
     <img src="assets/headshot.png" width="120" alt="Md Souad Al Kabir" />
 -->
 
-# Md Souad Al Kabir
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+  <img src="assets/header-light.svg" width="100%" alt="Md Souad Al Kabir, Full-Stack Web Engineer. Junior Software Engineer at Kirrhosoft, Dhaka, Bangladesh. Open to Software Engineer roles." />
+</picture>
 
-**Full-Stack Web Engineer** · React · TypeScript · Node.js · MongoDB
-
-Junior Software Engineer at Kirrhosoft · Dhaka, Bangladesh · Open to Software Engineer roles
+<br/>
 
 [![Portfolio ↗](https://img.shields.io/badge/Portfolio%20%E2%86%97-0E7490?style=flat-square)](https://souadalkabir.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-30363D?style=flat-square)](https://www.linkedin.com/in/souadalkabir/)
@@ -25,6 +26,13 @@ Junior Software Engineer at Kirrhosoft · Dhaka, Bangladesh · Open to Software 
 <br/>
 
 I build full-stack web products end to end, from typed React interfaces to Node/Express APIs on MongoDB. At Kirrhosoft I've shipped a reusable component library and data-fetching layer that cut UI development time by ~30% and unnecessary API requests by ~40%. I'm now going deeper on backend fundamentals through daily DSA practice and system design.
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg" />
+  <img src="assets/impact-light.svg" width="600" alt="Impact at Kirrhosoft: ~30% faster UI development, ~40% fewer API requests, 3 product modules, 0 critical production bugs." />
+</picture>
+</div>
 
 ## Experience
 
