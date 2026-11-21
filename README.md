@@ -1,87 +1,77 @@
 <div align="center">
 
-<!--
-  TODO: add headshot
-  - Image: square (1:1), at least 400×400 px, JPG or PNG, face centered, plain background.
-  - GitHub strips inline `style`, so border-radius won't work. For a round photo, crop it
-    to a circle yourself and export a PNG with a transparent background.
-  - Commit it to this repo as `assets/headshot.png`, then replace this whole comment with:
-    <img src="assets/headshot.png" width="120" alt="Md Souad Al Kabir" />
--->
+# Md Souad Al Kabir
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
-  <img src="assets/header-light.svg" width="100%" alt="Md Souad Al Kabir, Full-Stack Web Engineer. Junior Software Engineer at Kirrhosoft, Dhaka, Bangladesh. Open to Software Engineer roles." />
-</picture>
+**Software Engineer · Full-Stack (React, Next.js, Node.js, TypeScript)**
 
-<br/>
+Dhaka, Bangladesh · Open to Software Engineer roles
 
-[![Portfolio ↗](https://img.shields.io/badge/Portfolio%20%E2%86%97-0E7490?style=flat-square)](https://souadalkabir.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363D?style=flat-square)](https://www.linkedin.com/in/souadalkabir/)
-[![GitHub](https://img.shields.io/badge/GitHub-30363D?style=flat-square)](https://github.com/Souad5)
-[![Email](https://img.shields.io/badge/Email-30363D?style=flat-square)](mailto:souadalkabir@gmail.com)
+[Portfolio](https://souadalkabir.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/souadalkabir/) · [Email](mailto:souadalkabir@gmail.com)
 
 </div>
 
-<br/>
+---
 
-I build full-stack web products end to end, from typed React interfaces to Node/Express APIs on MongoDB. At Kirrhosoft I've shipped a reusable component library and data-fetching layer that cut UI development time by ~30% and unnecessary API requests by ~40%. I'm now going deeper on backend fundamentals through daily DSA practice and system design.
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/impact-dark.svg" />
-  <img src="assets/impact-light.svg" width="600" alt="Impact at Kirrhosoft: ~30% faster UI development, ~40% fewer API requests, 3 product modules, 0 critical production bugs." />
-</picture>
-</div>
+I build production web applications end to end: typed React and Next.js frontends, REST APIs on Node.js and Express, and data layers on PostgreSQL and MongoDB. I care about clean component architecture, efficient data fetching, and shipping reliably. Currently strengthening backend fundamentals through daily DSA practice and system design.
 
 ## Experience
 
-### Kirrhosoft
+**Kirrhosoft** · Junior Software Engineer · *May 2026 – Present*
+- Built **10+ reusable React/TypeScript components** adopted across **3 product modules**, cutting UI development time by **~30%**.
+- Integrated **15+ REST endpoints** with React Query caching, reducing redundant API requests by **~40%**.
+- Led a dashboard UI redesign that improved task completion rate.
+- Shipped every sprint on time in a 5-person Agile team with **zero critical production bugs**.
 
-**Junior Software Engineer** · May 2026 – Present
-
-- Built 10+ reusable React/TypeScript components used across 3 product modules, cutting UI development time by ~30%.
-- Integrated 15+ REST endpoints with React Query caching, reducing unnecessary requests by ~40%.
-- Led a dashboard UI redesign that improved task completion rate. <!-- TODO: add the measured improvement (e.g. "by X%") if you have it; otherwise leave as is. -->
-- Delivered every sprint on time in a 5-person Agile team with zero critical production bugs.
-
-**Software Development Intern** · Dec 2025 – Apr 2026
-
+**Kirrhosoft** · Software Development Intern · *Dec 2025 – Apr 2026*
 - Built high-density data grids with TanStack Table, including server-side pagination, filtering, and search.
 - Built validation-heavy forms with React Hook Form, shadcn/ui, and Radix UI.
-- Managed server state in responsive React/TypeScript apps with Axios and React Query.
+
+## Featured Projects
+
+### SwiftParcel — Courier & Logistics Platform
+Multi-role delivery platform for customers, couriers, and admins, backed by an Express and PostgreSQL API.
+- Parcel booking with live fee estimates, Stripe Checkout, and public tracking by tracking number
+- Courier workflow with status updates, proof-of-delivery uploads, and earnings
+- Admin analytics, hub and zone management, role management, and a searchable audit log; English and Bangla UI
+
+`Next.js 16` `React 19` `TypeScript` `TanStack Query` `Zustand` `Zod` `Express` `PostgreSQL` `Stripe`
+[Live demo](https://courier-logistics-frontend-eight.vercel.app) · [Frontend](https://github.com/Souad5/Courier-Logistics-frontend) · [Backend](https://github.com/Souad5/Courier-Logistics-backend)
+
+### RentNest — Rental Marketplace
+Marketplace connecting tenants and landlords, with admin moderation.
+- JWT authentication with role-aware routing and protected middleware
+- Role-based dashboards: property management, rental requests, user management, payment history
+- Stripe Payment Intents, optimistic updates, and shared Zod validation
+
+`Next.js 16` `React 19` `TypeScript` `TanStack Query` `TanStack Table` `Stripe` `REST API`
+[Live demo](https://rentnest-frontend-seven.vercel.app) · [Frontend](https://github.com/Souad5/Rentnest-frontend) · [Backend](https://github.com/Souad5/Rentnest-backend)
+
+### ShelfShare — Community Book-Sharing Platform *(team project)*
+Platform for lending, borrowing, and discovering books within a community.
+- NextAuth authentication with protected routes and session management
+- Stripe payments for borrowing and lending, plus an AI assistant for book queries
+
+`Next.js` `TypeScript` `Redux` `NextAuth` `Stripe` `Tailwind CSS`
+[Live demo](https://book-trading-club-delta.vercel.app) · [Repository](https://github.com/Souad5/Book-Trading-Club)
 
 ## Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img src="assets/stack-light.svg" width="640" alt="Tech stack. Languages: TypeScript, JavaScript. Frontend: React, Next.js, HTML, CSS, Tailwind CSS. Backend: Node.js, Express. Database: MongoDB, PostgreSQL, MySQL, Firebase. Tools: Git, GitHub, VS Code, Postman, Vercel, Netlify." />
-</picture>
+| | |
+|---|---|
+| **Languages** | TypeScript, JavaScript, SQL |
+| **Frontend** | React, Next.js, Tailwind CSS, shadcn/ui, Radix UI, TanStack Query, TanStack Table, React Hook Form, Zod, Redux, Zustand |
+| **Backend** | Node.js, Express, REST APIs, JWT, NextAuth |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Firebase |
+| **Tools** | Git, GitHub, Postman, Vercel, Netlify, Stripe |
 
-<sub>Also: React Query · TanStack Table · React Hook Form · shadcn/ui · Radix UI · Framer Motion · REST APIs · JWT</sub>
+## Education
 
-## Education & Certifications
-
-- **B.Sc. in Computer Science and Engineering**, North South University, Dhaka (2024)
-- Complete Web Development Course, Programming Hero
-- Short Course on Data Science, Dr. Jennifer Widom
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Souad5/Souad5/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/Souad5/Souad5/output/github-contribution-grid-snake.svg" />
-</picture>
+**B.Sc. in Computer Science and Engineering** — North South University, Dhaka (2024)
 
 ---
 
 <div align="center">
 
-**Open to Software Engineer roles.** Happy to talk React, system design, or a good DSA problem.
-
-[![Portfolio ↗](https://img.shields.io/badge/Portfolio%20%E2%86%97-0E7490?style=flat-square)](https://souadalkabir.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363D?style=flat-square)](https://www.linkedin.com/in/souadalkabir/)
-[![GitHub](https://img.shields.io/badge/GitHub-30363D?style=flat-square)](https://github.com/Souad5)
-[![Email](https://img.shields.io/badge/Email-30363D?style=flat-square)](mailto:souadalkabir@gmail.com)
+Open to Software Engineer roles. Happy to talk React, system design, or a good DSA problem.
 
 </div>
