@@ -4,9 +4,12 @@
 
 **Software Engineer · Full-Stack (React, Next.js, Node.js, TypeScript)**
 
-Dhaka, Bangladesh · Open to Software Engineer roles
+Dhaka, Bangladesh
 
-[Portfolio](https://souadalkabir.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/souadalkabir/) · [Email](mailto:souadalkabir@gmail.com)
+<a href="https://souadalkabir.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/souadalkabir/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NSAyMC40NWgtMy41NnYtNS41N2MwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjE0IDEuNDUtMi4xNCAyLjk0djUuNjdIOS4zNVY5aDMuNDF2MS41NmguMDVjLjQ4LS45IDEuNjQtMS44NSAzLjM3LTEuODUgMy42IDAgNC4yNyAyLjM3IDQuMjcgNS40NnY2LjI4ek01LjM0IDcuNDNhMi4wNiAyLjA2IDAgMSAxIDAtNC4xMiAyLjA2IDIuMDYgMCAwIDEgMCA0LjEyek03LjEyIDIwLjQ1SDMuNTZWOWgzLjU2djExLjQ1ek0yMi4yMiAwSDEuNzdDLjc5IDAgMCAuNzcgMCAxLjcydjIwLjU2QzAgMjMuMjMuNzkgMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43NyAxLjc4LTEuNzJWMS43MkMyNCAuNzcgMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:souadalkabir@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Open_to-Software_Engineer_roles-16A34A?style=for-the-badge" alt="Open to Software Engineer roles" />
 
 </div>
 
@@ -14,7 +17,7 @@ Dhaka, Bangladesh · Open to Software Engineer roles
 
 I build production web applications end to end: typed React and Next.js frontends, REST APIs on Node.js and Express, and data layers on PostgreSQL and MongoDB. I care about clean component architecture, efficient data fetching, and shipping reliably. Currently strengthening backend fundamentals through daily DSA practice and system design.
 
-## Experience
+## 💼 Experience
 
 **Kirrhosoft** · Junior Software Engineer · *May 2026 – Present*
 - Built **10+ reusable React/TypeScript components** adopted across **3 product modules**, cutting UI development time by **~30%**.
@@ -26,7 +29,7 @@ I build production web applications end to end: typed React and Next.js frontend
 - Built high-density data grids with TanStack Table, including server-side pagination, filtering, and search.
 - Built validation-heavy forms with React Hook Form, shadcn/ui, and Radix UI.
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### SwiftParcel — Courier & Logistics Platform
 Multi-role delivery platform for customers, couriers, and admins, backed by an Express and PostgreSQL API.
@@ -36,7 +39,9 @@ Multi-role delivery platform for customers, couriers, and admins, backed by an E
 
 `Next.js 16` `React 19` `TypeScript` `TanStack Query` `Zustand` `Zod` `Express` `PostgreSQL` `Stripe`
 
-[Live demo](https://courier-logistics-frontend-eight.vercel.app) · [Frontend](https://github.com/Souad5/Courier-Logistics-frontend) · [Backend](https://github.com/Souad5/Courier-Logistics-backend)
+<a href="https://courier-logistics-frontend-eight.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/Souad5/Courier-Logistics-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=white" alt="Frontend repository" /></a>
+<a href="https://github.com/Souad5/Courier-Logistics-backend"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=white" alt="Backend repository" /></a>
 
 ### RentNest — Rental Marketplace
 Marketplace connecting tenants and landlords, with admin moderation.
@@ -46,7 +51,9 @@ Marketplace connecting tenants and landlords, with admin moderation.
 
 `Next.js 16` `React 19` `TypeScript` `TanStack Query` `TanStack Table` `Stripe` `REST API`
 
-[Live demo](https://rentnest-frontend-seven.vercel.app) · [Frontend](https://github.com/Souad5/Rentnest-frontend) · [Backend](https://github.com/Souad5/Rentnest-backend)
+<a href="https://rentnest-frontend-seven.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/Souad5/Rentnest-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=white" alt="Frontend repository" /></a>
+<a href="https://github.com/Souad5/Rentnest-backend"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=white" alt="Backend repository" /></a>
 
 ### ShelfShare — Community Book-Sharing Platform *(team project)*
 Platform for lending, borrowing, and discovering books within a community.
@@ -55,19 +62,20 @@ Platform for lending, borrowing, and discovering books within a community.
 
 `Next.js` `TypeScript` `Redux` `NextAuth` `Stripe` `Tailwind CSS`
 
-[Live demo](https://book-trading-club-delta.vercel.app) · [Repository](https://github.com/Souad5/Book-Trading-Club)
+<a href="https://book-trading-club-delta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+<a href="https://github.com/Souad5/Book-Trading-Club"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-| | |
-|---|---|
-| **Languages** | TypeScript, JavaScript, SQL |
-| **Frontend** | React, Next.js, Tailwind CSS, shadcn/ui, Radix UI, TanStack Query, TanStack Table, React Hook Form, Zod, Redux, Zustand |
-| **Backend** | Node.js, Express, REST APIs, JWT, NextAuth |
-| **Databases** | PostgreSQL, MongoDB, MySQL, Firebase |
-| **Tools** | Git, GitHub, Postman, Vercel, Netlify, Stripe |
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,express&perline=8" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Redux, Node.js, Express" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,git,github,postman,vercel&perline=8" alt="PostgreSQL, MongoDB, MySQL, Firebase, Git, GitHub, Postman, Vercel" />
+</p>
 
-## Education
+**Also:** TanStack Query · TanStack Table · React Hook Form · Zod · Zustand · shadcn/ui · Radix UI · NextAuth · JWT · Stripe · REST APIs
+
+## 🎓 Education
 
 **B.Sc. in Computer Science and Engineering** — North South University, Dhaka (2024)
 
@@ -75,6 +83,6 @@ Platform for lending, borrowing, and discovering books within a community.
 
 <div align="center">
 
-Open to Software Engineer roles. Happy to talk React, system design, or a good DSA problem.
+Happy to talk React, system design, or a good DSA problem.
 
 </div>
