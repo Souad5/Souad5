@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="t d">
+  <title id="t">Md Souad Al Kabir, Software Engineer</title>
+  <desc id="d">Full-stack software engineer building scalable web apps with React, Next.js, Node.js and TypeScript.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+    <radialGradient id="g1" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#6366F1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g2" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#06B6D4" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <clipPath id="type">
+      <rect class="typer" x="80" y="196" width="0" height="40"/>
+    </clipPath>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+      .orb1 { animation: drift1 14s ease-in-out infinite alternate; }
+      .orb2 { animation: drift2 18s ease-in-out infinite alternate; }
+      .fade { opacity: 0; animation: fadeUp 0.9s ease-out forwards; }
+      .f2 { animation-delay: 0.25s; }
+      .f3 { animation-delay: 0.5s; }
+      .typer { animation: type 7s steps(37, end) 1s infinite; }
+      .cursor { animation: move 7s steps(37, end) 1s infinite, blink 0.9s step-end infinite; }
+      .code { opacity: 0.0; animation: codeIn 1.2s ease-out 0.6s forwards; }
+      @keyframes drift1 { from { transform: translate(0, 0); } to { transform: translate(120px, 40px); } }
+      @keyframes drift2 { from { transform: translate(0, 0); } to { transform: translate(-140px, -30px); } }
+      @keyframes fadeUp { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes type { 0% { width: 0; } 45% { width: 500px; } 85% { width: 500px; } 100% { width: 0; } }
+      @keyframes move { 0% { transform: translateX(0); } 45% { transform: translateX(500px); } 85% { transform: translateX(500px); } 100% { transform: translateX(0); } }
+      @keyframes blink { 50% { opacity: 0; } }
+      @keyframes codeIn { from { opacity: 0; transform: translateX(16px); } to { opacity: 1; transform: translateX(0); } }
+      @media (prefers-reduced-motion: reduce) {
+        .orb1, .orb2, .cursor { animation: none; }
+        .typer { animation: none; width: 500px; }
+        .fade, .code { animation: none; opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
+  <circle class="orb1" cx="260" cy="60" r="260" fill="url(#g1)"/>
+  <circle class="orb2" cx="1000" cy="280" r="280" fill="url(#g2)"/>
+
+  <!-- Left: identity -->
+  <g class="sans">
+    <text class="fade" x="80" y="92" fill="#94A3B8" font-size="18" letter-spacing="3" font-weight="600">SOFTWARE ENGINEER · FULL-STACK</text>
+    <text class="fade f2" x="78" y="158" fill="#F8FAFC" font-size="56" font-weight="800">Md Souad Al Kabir</text>
+    <rect class="fade f2" x="80" y="176" width="96" height="4" rx="2" fill="url(#accent)"/>
+  </g>
+  <g class="mono">
+    <text clip-path="url(#type)" x="80" y="224" fill="#CBD5E1" font-size="22">Building scalable full-stack web apps</text>
+    <rect class="cursor" x="82" y="204" width="11" height="24" fill="#22D3EE"/>
+  </g>
+  <g class="sans fade f3">
+    <text x="80" y="276" fill="#64748B" font-size="17">React · Next.js · Node.js · TypeScript · PostgreSQL · MongoDB</text>
+  </g>
+
+  <!-- Right: code card -->
+  <g class="code mono" font-size="15">
+    <rect x="808" y="64" width="320" height="192" rx="12" fill="#0F172A" fill-opacity="0.85" stroke="#334155"/>
+    <circle cx="832" cy="86" r="5" fill="#F87171"/>
+    <circle cx="850" cy="86" r="5" fill="#FBBF24"/>
+    <circle cx="868" cy="86" r="5" fill="#34D399"/>
+    <text x="832" y="124"><tspan fill="#C084FC">const</tspan><tspan fill="#E2E8F0"> engineer = {</tspan></text>
+    <text x="852" y="150"><tspan fill="#7DD3FC">role</tspan><tspan fill="#E2E8F0">: </tspan><tspan fill="#86EFAC">"Full-Stack"</tspan><tspan fill="#E2E8F0">,</tspan></text>
+    <text x="852" y="176"><tspan fill="#7DD3FC">stack</tspan><tspan fill="#E2E8F0">: [</tspan><tspan fill="#86EFAC">"React"</tspan><tspan fill="#E2E8F0">, </tspan><tspan fill="#86EFAC">"Node"</tspan><tspan fill="#E2E8F0">],</tspan></text>
+    <text x="852" y="202"><tspan fill="#7DD3FC">based</tspan><tspan fill="#E2E8F0">: </tspan><tspan fill="#86EFAC">"Dhaka, BD"</tspan><tspan fill="#E2E8F0">,</tspan></text>
+    <text x="832" y="228" fill="#E2E8F0">};</text>
+  </g>
+</svg>
