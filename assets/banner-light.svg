@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t">
+  <title id="t">Md Souad Al Kabir. Full-stack software engineer in Dhaka, Bangladesh. Junior Software Engineer at Kirrhosoft, open to software engineer roles.</title>
+  <style>
+    .s { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .m { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .pulse { transform-origin: 918px 211px; animation: pulse 2.4s ease-out infinite; }
+    @keyframes pulse { 0% { transform: scale(1); opacity: 0.5; } 100% { transform: scale(2.6); opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; opacity: 0; } }
+  </style>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+
+  <text class="s" x="72" y="128" fill="#1F2328" font-size="58" font-weight="700" letter-spacing="-1.5">Md Souad Al Kabir</text>
+  <text class="s" x="74" y="174" fill="#59636E" font-size="26">Full-stack software engineer</text>
+  <text class="s" x="74" y="226" fill="#818B98" font-size="18">React  /  Next.js  /  Node.js  /  TypeScript  /  PostgreSQL</text>
+
+  <line x1="880" y1="72" x2="880" y2="228" stroke="#D0D7DE"/>
+  <g class="m" font-size="15">
+    <text x="912" y="100" fill="#818B98">BASED IN</text>
+    <text x="912" y="124" fill="#1F2328" class="s" font-size="18">Dhaka, Bangladesh</text>
+    <text x="912" y="164" fill="#818B98">CURRENTLY</text>
+    <text x="912" y="188" fill="#1F2328" class="s" font-size="18">Kirrhosoft</text>
+  </g>
+  <circle class="pulse" cx="918" cy="211" r="4" fill="#1A7F37"/>
+  <circle cx="918" cy="211" r="4" fill="#1A7F37"/>
+  <text class="s" x="932" y="217" fill="#1A7F37" font-size="15" font-weight="600">Open to roles</text>
+</svg>
