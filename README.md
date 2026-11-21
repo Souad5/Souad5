@@ -15,7 +15,7 @@
 
 I build production web applications end to end: typed React and Next.js frontends, REST APIs on Node.js and Express, and data layers on PostgreSQL and MongoDB. I care about clean component architecture, efficient data fetching, and shipping reliably. Currently strengthening backend fundamentals through daily DSA practice and system design.
 
-## 💼 Experience
+## Experience
 
 **Kirrhosoft** · Junior Software Engineer · *May 2026 – Present*
 - Built **10+ reusable React/TypeScript components** adopted across **3 product modules**, cutting UI development time by **~30%**.
@@ -27,7 +27,7 @@ I build production web applications end to end: typed React and Next.js frontend
 - Built high-density data grids with TanStack Table, including server-side pagination, filtering, and search.
 - Built validation-heavy forms with React Hook Form, shadcn/ui, and Radix UI.
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### SwiftParcel — Courier & Logistics Platform
 Multi-role delivery platform for customers, couriers, and admins, backed by an Express and PostgreSQL API.
@@ -63,7 +63,7 @@ Platform for lending, borrowing, and discovering books within a community.
 <a href="https://book-trading-club-delta.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
 <a href="https://github.com/Souad5/Book-Trading-Club"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" /></a>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,express&perline=8" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Redux, Node.js, Express" />
@@ -73,7 +73,7 @@ Platform for lending, borrowing, and discovering books within a community.
 
 **Also:** TanStack Query · TanStack Table · React Hook Form · Zod · Zustand · shadcn/ui · Radix UI · NextAuth · JWT · Stripe · REST APIs
 
-## 🎓 Education
+## Education
 
 **B.Sc. in Computer Science and Engineering** — North South University, Dhaka (2024)
 
