@@ -35,6 +35,7 @@ Multi-role delivery platform for customers, couriers, and admins, backed by an E
 - Admin analytics, hub and zone management, role management, and a searchable audit log; English and Bangla UI
 
 `Next.js 16` `React 19` `TypeScript` `TanStack Query` `Zustand` `Zod` `Express` `PostgreSQL` `Stripe`
+
 [Live demo](https://courier-logistics-frontend-eight.vercel.app) · [Frontend](https://github.com/Souad5/Courier-Logistics-frontend) · [Backend](https://github.com/Souad5/Courier-Logistics-backend)
 
 ### RentNest — Rental Marketplace
@@ -44,6 +45,7 @@ Marketplace connecting tenants and landlords, with admin moderation.
 - Stripe Payment Intents, optimistic updates, and shared Zod validation
 
 `Next.js 16` `React 19` `TypeScript` `TanStack Query` `TanStack Table` `Stripe` `REST API`
+
 [Live demo](https://rentnest-frontend-seven.vercel.app) · [Frontend](https://github.com/Souad5/Rentnest-frontend) · [Backend](https://github.com/Souad5/Rentnest-backend)
 
 ### ShelfShare — Community Book-Sharing Platform *(team project)*
@@ -52,6 +54,7 @@ Platform for lending, borrowing, and discovering books within a community.
 - Stripe payments for borrowing and lending, plus an AI assistant for book queries
 
 `Next.js` `TypeScript` `Redux` `NextAuth` `Stripe` `Tailwind CSS`
+
 [Live demo](https://book-trading-club-delta.vercel.app) · [Repository](https://github.com/Souad5/Book-Trading-Club)
 
 ## Tech Stack
